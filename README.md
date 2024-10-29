@@ -1,3 +1,5 @@
-# color-page-creator
+# Make coloring pages from photos!
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/shayki5/color-page-creator)
+Check it live here:
+
+https://shayki5.github.io/color-page-creator
